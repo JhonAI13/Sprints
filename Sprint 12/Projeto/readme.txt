@@ -1,0 +1,1 @@
+Para entrar no dashboard do tableau basta entrar neste link: https://public.tableau.com/views/Dashboard_17472681017290/Dashboard?:language=pt-BR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
