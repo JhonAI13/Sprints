@@ -1,0 +1,7 @@
+Etapa Funil,Grupo,Usuarios Convertidos,Total de Usuarios,Taxa de Conversao (%)
+product_page,A,1676,2604,64.36
+product_cart,A,780,2604,29.95
+purchase,A,822,2604,31.57
+product_page,B,490,877,55.87
+product_cart,B,243,877,27.71
+purchase,B,246,877,28.05
